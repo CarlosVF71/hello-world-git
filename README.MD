@@ -36,4 +36,20 @@ Underline 2
 - [Este es un link al index](index.html)
 
 # Imágenes
-![Logo GitHub](https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png)
+![Logo GitHub](https://cdn.icon-icons.com/icons2/2428/PNG/48/github_black_logo_icon_147128.png)
+
+# Code Snippets
+```JSON
+[
+  {
+    "title": "apples",
+    "count": [12000, 20000],
+    "description": {"text": "...", "sensitive": false}
+  },
+  {
+    "title": "oranges",
+    "count": [17500, null],
+    "description": {"text": "...", "sensitive": false}
+  }
+]
+```
