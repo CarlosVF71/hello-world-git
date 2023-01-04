@@ -53,3 +53,10 @@ Underline 2
   }
 ]
 ```
+
+# Tablas
+| Nombre | Apellido | Edad |
+| - | - | - |
+| Carlos | Vásquez | 51 |
+| Carlos | Vásquez | 9 |
+
