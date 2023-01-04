@@ -60,3 +60,11 @@ Underline 2
 | Carlos | Vásquez | 51 |
 | Carlos | Vásquez | 9 |
 
+# Citas
+
+La siguiente es una cita:
+> Primera cita.
+
+La siguiente es otra cita:
+> Segunda cita.
+
