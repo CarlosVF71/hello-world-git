@@ -68,3 +68,17 @@ La siguiente es una cita:
 La siguiente es otra cita:
 > Segunda cita.
 
+# Lineas Divisoras
+
+Linea divisora con guiones
+
+---
+
+Linea divisora con asteriscos
+
+***
+
+Linea divisora con underscores
+
+___
+
