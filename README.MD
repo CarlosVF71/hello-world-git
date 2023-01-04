@@ -11,3 +11,9 @@ Underline 1
 Underline 2
 =
 
+- *Formato itálico 1*
+- _Formato itálico 2_
+- **Formato bold.**
+- __Formato bold.__
+- ~~Formato tachado.~~
+
