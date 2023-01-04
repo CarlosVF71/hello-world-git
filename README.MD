@@ -29,3 +29,8 @@ Underline 2
 - Este es un ítem
 - Este es un ítem
 - Este es un ítem
+
+# Links
+- <a href="https://www.google.com">Este es un link HTML</a>
+- [Este es un link Markdown](https://www.google.com)
+- [Este es un link al index](index.html)
